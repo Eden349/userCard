@@ -1,0 +1,11 @@
+/* UserCard.css */
+.user-card h3 {
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-size: 1.2em;
+  }
+  
+  .user-card p {
+    margin-bottom: 4px;
+  }
+  
